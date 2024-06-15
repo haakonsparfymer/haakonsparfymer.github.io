@@ -1,0 +1,7 @@
+{
+    "short_name": "Haakons Parfymer",
+    "display": "standalone",
+    "theme_color": "purple",
+    "start_url": "index.html",
+    "scope": "/"
+}
