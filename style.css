@@ -1,0 +1,105 @@
+img {
+    width: 255px;
+    float: none;
+    margin-right: 20px;
+    border: 3px solid black;
+    padding: 5px;
+    max-width: 100%;
+    height: auto;
+}
+
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 100%;
+    text-align:center;
+    
+}
+p2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-weight: bold;
+    font-size: 100%;
+    
+}
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+    font-weight: bold;
+    text-shadow: 2px 2px 0 white, -2px -2px 0 white;
+   
+
+  }
+h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: navy;
+    font-weight: bold;
+    text-shadow: 2px 2px 0 white, -2px -2px 0 white;
+
+}
+
+ 
+
+a:hover {
+    color:aliceblue;
+    font-size: 175%;
+    
+}
+.text-link {
+    padding: 10px;
+    background-color: navy;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 15px 2px;
+    text-decoration: dotted;
+    display: inline-block;
+
+}
+.link {
+    padding: 10px;
+  
+    color: rgb(255, 255, 255);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration:solid;
+    
+}
+ul {
+    text-align: left;
+    font-weight: bold;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+p3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 100%;
+    text-align:center;
+}
+
+.container {
+    width: 90%;
+}
+@media (max-width: 768px){
+    
+}
+
+
+
+
+
+
+  

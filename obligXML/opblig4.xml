@@ -1,0 +1,46 @@
+oppgave 1
+
+<!--a)-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<spørsmål id = "1">
+    <question>Hva er min pris?</question>
+    <forfatter>Haakon Aasheim</forfatter>
+
+
+</spørsmål>
+
+<!--b)-->
+<person id = "1">
+    <navn>Haakon Schjerven Aasheim</navn>
+    <instutisajon>SV fakultetet</instutisajon>
+
+</person>
+
+
+<!--c)-->
+
+<svar id = "1">
+    <spørsmål>Hva er min pris?</spørsmål>
+    <forfatter>Haakon Schjerven Aasheim</forfatter>
+    <tekst>Produktet koster rundt 600kr </tekst>
+
+</svar>
+
+
+Oppgave 2
+
+a.
+Det sendes fra dokumentet om "person"(b) fordi det er her vi har den personlige informasjonen.
+Dokumenter sendes fra tjerneren som regnes som bedriften til klienten som er brukeren, som gjør at
+informasjonen presenteres for henne.
+
+b.
+når brukeren skal se på spørsmål så bruker vi dokumetet om spørsmål(a), men når hun skal sende inn 
+løsningsforslag brukes dokumentet for svar(c) for å svare.
+her sendes det fra klienten/brukeren til tjeneren (bedriften)
+
+
+
+
